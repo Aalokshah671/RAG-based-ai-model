@@ -24,6 +24,9 @@ The application combines Large language model with modern AI techniques to enhan
 - Document-based Q&A system
 - Knowledge retrieval from custom data
 
+  steps:
+- read data - convert to json - chunk - embeddings
+
 🎯 Objective:
 To build an AI system that can understand user queries and provide precise answers by retrieving relevant information from documents, instead of relying only on pre-trained knowledge.
 
